@@ -1,10 +1,10 @@
 [user]
-	name = omaxanderson
-	email = omaxwellanderson@gmail.com
+    name = omaxanderson
+    email = omaxwellanderson@gmail.com
 [core]
-	whitespace = cr-at-eol
-	autocrlf = input
-	excludesfile = ~/.gitignore
+    whitespace = cr-at-eol
+    autocrlf = input
+    excludesfile = ~/.gitignore
 [merge]
-	tool = vimdiff
+    tool = vimdiff
     conflictstyle = diff3
